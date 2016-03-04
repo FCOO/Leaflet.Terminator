@@ -1,13 +1,13 @@
 {
-  "name"		: "Leaflet.Terminator",
-  "version"	: "0.0.0",
+  "name": "Leaflet.Terminator",
+  "version": "1.0.0",
   "homepage": "https://github.com/FCOO/Leaflet.Terminator",
-	"author": "Jesper Larsen jla@fcoo.dk",
-	"description": "package.json is only use for building the package. see bower.json for more info",
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/FCOO/Leaflet.Terminator.git"
-	},
+  "author": "Jesper Larsen jla@fcoo.dk",
+  "description": "package.json is only use for building the package. see bower.json for more info",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FCOO/Leaflet.Terminator.git"
+  },
   "devDependencies": {
     "grunt-bower-concat": "~1.0.0",
     "grunt-continue": "~0.1.0",

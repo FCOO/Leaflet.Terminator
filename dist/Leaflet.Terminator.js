@@ -51,7 +51,7 @@
 		},
     
 		initialize: function(options) {
-			this.VERSION = "{VERSION}";
+			this.VERSION = "1.0.0";
 			this._R2D = 180 / Math.PI;
 			this._D2R = Math.PI / 180;
 			L.Util.setOptions(this, options);
