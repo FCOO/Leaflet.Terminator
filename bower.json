@@ -1,6 +1,6 @@
 {
   "name": "Leaflet.Terminator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/FCOO/Leaflet.Terminator",
   "authors": [
     "J�rg Dietrich] <https://github.com/joergdietrich>",
@@ -9,7 +9,7 @@
   ],
   "description": "",
   "main": [
-    "dist/Leaflet.Terminator.min.js"
+    "dist/Leaflet.Terminator.js"
   ],
   "repository": {
     "type": "git",
